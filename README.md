@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!, I'm Aryan 👋</h1>
 
 <p align="center">
-  🚀 Software Developer | 💻 Tech Enthusiast  
+   💻 Turning ideas into code | 🚀 Learning in public
 </p>
 
 ---
@@ -14,8 +14,17 @@
 
 ---
 
-### 🌐 Portfolio
-🔗 https://your-portfolio-link.com  
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-nandanwar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://x.com/ARN2256">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@aryan22">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -39,5 +48,5 @@
 ### 🐍 Contribution Snake (Game Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan22N/Aryan22N/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan22N/Aryan22N/output/github-contribution-grid-snake-dark.svg" />
 </p>
