@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm Aryan Nandanwar</h1>
-<h3 align="center">"✨ Coding Learner | Web Dev + React | AI & DSA Explorer | Turning Curiosity into Projects"</h3>
+<h1 align="center">Hello World!, I'm Aryan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan22n&label=Profile%20views&color=0e75b6&style=flat" alt="aryan22n" /> </p>
-
-- 🌱 I’m currently learning **Next.js for frontend and Node.js for backend development**
-
-- 📫 How to reach me **aryannandanwar738@gmail.com**
-
-- ⚡ Fun fact **I started coding to build projects, now projects build me.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryan22N&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan22N&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan22N&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  🚀 Software Developer | 💻 Tech Enthusiast  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan22N&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🎓 B.Tech CSE Student  
+- 🌱 Currently learning Full Stack Development  
+- ⚡ Love building projects & learning in public  
+
+---
+
+### 🌐 Portfolio
+🔗 https://your-portfolio-link.com  
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,next,nodejs,express,mongodb,tailwind,html,css,git,github,figma,supabase,express,vercel,cpp" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan22N&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan22N&theme=radical" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Game Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan22N/Aryan22N/output/github-contribution-grid-snake.svg" />
+</p>
