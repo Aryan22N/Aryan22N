@@ -30,7 +30,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Game Animation)
+###  Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryan22N/Aryan22N/output/github-contribution-grid-snake-dark.svg" />
